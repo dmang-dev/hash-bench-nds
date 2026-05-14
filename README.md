@@ -1,5 +1,9 @@
 # hash-bench-nds
 
+> Part of the **[hash-bench](https://github.com/dmang-dev/hash-bench)**
+> cross-platform suite — the same hash-algorithm sources timed natively
+> on seven Nintendo consoles (NES · GB/GBC · GBA · NDS · DSi · 3DS · N64).
+
 Native **Nintendo DS** hashing-algorithm benchmark — **32 algorithms**
 on a 33.51 MHz ARM946E with cycle-accurate timing, displayed across
 **both screens** (top: 16 tiny / non-crypto, bottom: 16 modern +
